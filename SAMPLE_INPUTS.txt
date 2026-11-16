@@ -1,0 +1,5 @@
+Sliding window : 7 frames, window 2, answer y,y,y,y
+Token bucket   : bucket 10, rate 4, 3 time units, packets 3, 6, 7
+Leaky bucket   : bucket 10, rate 4, 3 time units, packets 3, 8, 2
+Distance vector: 3 nodes, matrix: 0 2 7 / 2 0 1 / 7 1 0
+TCP/UDP        : type any text; Ctrl+D to quit client
